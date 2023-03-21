@@ -1,0 +1,5 @@
+# GIT
+Archivo index con modificaciones y un archivo vacío.
+<br>
+Este documento permit revisar los comentarios del desarrollador.
+<h2>También se puede incorporar html para darle estrctura a readme</h2>
